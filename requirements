@@ -1,0 +1,11 @@
+liac-arff
+numpy
+pandas
+scikit-learn
+scipy
+six
+joblib
+psutil
+xgboost
+
+git+https://github.com/automl/ConfigSpace@master
